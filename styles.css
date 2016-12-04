@@ -1,0 +1,40 @@
+*{
+outline: 1px dotted orange;
+font-family: Verdana, sans-serif;
+}
+
+h1{
+  text-align:center
+}
+
+h2 {
+  background-color:lightblue;
+  margin-left: 20px;
+}
+
+p {
+  margin-left: 20px;
+  margin-right: 40px
+  font-size: 15px;
+  font-family: Verdana, sans-serif;
+  }
+
+ol {
+  font-size: 20px;
+  font-weight: bold;
+  }
+
+ol li {
+  margin-left: 40px;
+  font-size: 15px;
+  font-weight: normal;
+  }
+
+
+footer{
+  text-align:center;
+  background-color: blue;
+  font-style:oblique;
+  font-size: 15px;
+  color:white;
+}
